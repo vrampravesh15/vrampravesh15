@@ -1,24 +1,6 @@
 # 👋 Hi, I’m Rampravesh Vishwakarma
 
-### 💼 About Me
-I’m a detail-oriented and analytical professional with hands-on experience in **data analysis, reporting, and business insights**. I enjoy working on real-world projects that combine data, process improvement, and visualization to drive smarter decisions.
-
----
-
-### 🎯 What I Do
-- Create **interactive dashboards** and reports using Power BI and Excel.  
-- Work with **datasets** to identify patterns, perform analysis, and visualize trends.  
-- Write and optimize **SQL queries** for data extraction and insights.  
-- Use **Python** for data manipulation and exploratory analysis.  
-
----
-
-### 🧠 Skills & Tools
-**Languages & Tools:**  
-`Python` | `SQL` | `Power BI` | `Excel` | `DAX` | `Pandas` | `NumPy`
-
-**Core Areas:**  
-`Data Analysis` | `Business Reporting` | `KPI Tracking` | `Dashboard Design`
+Detail-oriented and analytical professional skilled in **data analysis, business reporting, and visualization**. I enjoy working with data to uncover insights, build meaningful dashboards, and support data-driven decisions. My experience includes creating interactive reports using **Power BI** and **Excel**, writing optimized **SQL queries**, and using **Python** for data manipulation and automation. I’ve worked on projects like financial analysis, sales dashboards, and performance tracking, each focused on simplifying complex information through clear visuals. I’m constantly learning new ways to enhance my skills in **data analytics, Python, Power BI**, and **SQL**, with a goal to make data more accessible and valuable for business growth.
 
 ---
 
