@@ -24,7 +24,6 @@ I continuously enhance my skills in:
 ### 📫 Connect With Me
 📧 Email: vrampravesh15@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/rampravesh-vishwakarma/ 
-🐙 GitHub: https://github.com/vrampravesh15
 
 ---
 
