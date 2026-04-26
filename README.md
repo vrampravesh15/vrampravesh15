@@ -2,6 +2,8 @@
 
 "Business Analyst with a strong background in UK Defined Benefit (DB) Pension Operations. I leverage deep domain expertise to translate complex administrative workflows into efficient business requirements and actionable technical solutions. Proficient in SQL, Power BI, and Excel, I specialize in improving operational transparency, data accuracy, and reporting efficiency within the pension sector."
 
+---
+
 ### 🛠 Domain & Technical Toolbox
 - **Domain Expertise:** UK Defined Benefit (DB) Pensions, Pension Administration, Regulatory Compliance (TPR).
 - **Business Analysis:** Business Requirements Documents (BRDs), User Stories, Process Mapping, Gap Analysis.
@@ -21,12 +23,16 @@
 
 ---
 
-### 🌱 Ongoing Learning
-I continuously enhance my skills in:
-- **Data Analysis and Visualization**
-- **SQL Optimization**
-- **Power BI Dashboard Development**
-- **Python Automation**
+## 🚀 Strategic Skill Development
+I am continuously expanding my technical toolkit to build more scalable and efficient pension reporting solutions:
+
+- **Data Analytics & Visualization:** Creating high-impact dashboards for pension performance monitoring.
+
+- **SQL Optimization:** Refining query performance for complex pension database reporting.
+
+- **Power BI Architecture:** Developing interactive BI solutions to simplify complex administrative data.
+
+- **Process Automation:** Applying Python to streamline repetitive pension operations and increase reporting accuracy.
 
 ---
 
