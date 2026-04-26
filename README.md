@@ -25,13 +25,9 @@
 
 ## 🚀 Strategic Skill Development
 I am continuously expanding my technical toolkit to build more scalable and efficient pension reporting solutions:
-
 - **Data Analytics & Visualization:** Creating high-impact dashboards for pension performance monitoring.
-
 - **SQL Optimization:** Refining query performance for complex pension database reporting.
-
 - **Power BI Architecture:** Developing interactive BI solutions to simplify complex administrative data.
-
 - **Process Automation:** Applying Python to streamline repetitive pension operations and increase reporting accuracy.
 
 ---
